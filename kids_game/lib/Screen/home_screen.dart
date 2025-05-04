@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:kids_game/Screen/Challenges_screen.dart';
+import 'package:kids_game/Screen/challenges_screen.dart';
 import 'package:kids_game/Screen/lessons_screen.dart';
 import 'package:kids_game/Screen/profile_screen.dart';
 import 'package:kids_game/Screen/verbal_skills_screen.dart';
